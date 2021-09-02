@@ -1,0 +1,14 @@
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\bin\Debug\Model.dll
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\bin\Debug\Model.pdb
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\obj\Debug\Model.dll
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\obj\Debug\Model.pdb
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\bin\Debug\Model.dll.config
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\bin\Debug\EntityFramework.dll
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\bin\Debug\EntityFramework.xml
+C:\Users\Sergej\Documents\GitHub\Tim2\Projekat_Tim2\Model\bin\Debug\EntityFramework.SqlServer.xml
